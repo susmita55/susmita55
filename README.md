@@ -168,22 +168,22 @@ Developed Blood Bank Management System using Django and MongoDB as a solo projec
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susmitayogi&show_icons=true&theme=radical" alt="Susmita's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susmitayogi&theme=radical" alt="Susmita's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susmita55&show_icons=true&theme=radical" alt="Susmita's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susmita55&theme=radical" alt="Susmita's GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=susmitayogi&theme=radical&column=7" alt="Susmita's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=susmita55&theme=radical&column=7" alt="Susmita's GitHub trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmitayogi&layout=compact&theme=radical" alt="Susmita's GitHub top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmita55&layout=compact&theme=radical" alt="Susmita's GitHub top languages" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/susmitayogi/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/susmita55/count.svg" alt="Visitor Count" />
   <p>Thanks for visiting! 😊</p>
 </div>
 
@@ -199,7 +199,7 @@ Developed Blood Bank Management System using Django and MongoDB as a solo projec
   <a href="mailto:yogisusmita99@gmail.com">
     <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/susmita-yogi/">
+  <a href="https://www.linkedin.com/in/susmitayogi/">
     <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/susmitayogi">
